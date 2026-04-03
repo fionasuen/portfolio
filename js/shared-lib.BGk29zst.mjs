@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.mGKE_U0z.mjs";function t(e,t){return{description:`Graphic Designer based in Toronto, specializing in brand identity, packaging, social media design, and marketing visuals for startups and growing businesses.`,favicon:`https://framerusercontent.com/assets/uU7x9F5cDULujCqLdlPdNk9TxM.png`,robots:`max-image-preview:large`,socialImage:`https://framerusercontent.com/assets/D4AdCaDDY9pSvHmBIsEcMYaQ9LU.png`,title:`Fiona Suen | Brand & Graphic Designer`}}var n=e((()=>{}));export{t as n,n as t};
+//# sourceMappingURL=shared-lib.BGk29zst.mjs.map
