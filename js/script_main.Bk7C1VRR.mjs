@@ -1800,7 +1800,7 @@ var It, Lt, Rt, zt, Bt, Vt, Ht, Ut, Wt, Gt, Kt, qt, J, Jt, Yt = e((() => {
                                         width: `100%`,
                                         ...q({
                                             P64KNRm6Z: {
-                                                sQa2snWwX: `/assets/pdf/Fiona_Suen_Resume.pdf`
+                                                sQa2snWwX: `https://fionasuen.me/assets/pdf/Fiona_Suen_Resume.pdf`
                                             }
                                         }, y, S)
                                     })

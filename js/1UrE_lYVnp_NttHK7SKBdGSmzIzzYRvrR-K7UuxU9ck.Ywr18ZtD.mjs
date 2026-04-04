@@ -1320,7 +1320,7 @@ e((() => {
                                                     id: `siSBBz1CV`,
                                                     layoutId: `siSBBz1CV`,
                                                     N0kOBruE3: `Download resume`,
-                                                    sQa2snWwX: `/assets/pdf/Fiona_Suen_Resume.pdf`,
+                                                    sQa2snWwX: `https://fionasuen.me/assets/pdf/Fiona_Suen_Resume.pdf`,
                                                     width: `100%`
                                                 })
                                             })
