@@ -1,0 +1,35 @@
+name: Deploy to Cloudflare Pages
+
+# This action runs every time you push to the 'main' or 'master' branch
+on:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      deployments: write
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Publish to Cloudflare Pages
+        uses: cloudflare/pages-action@v1
+        with:
+          # Make sure these secrets are set in your GitHub repo settings!
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          
+          # Replace this if your project name on Cloudflare is different
+          projectName: 'fiona-portfolio' 
+          
+          # We deploy the root directory since the site is pre-built
+          directory: '.'
+          
+          # Optional: Enables bot comments on your PRs 
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
