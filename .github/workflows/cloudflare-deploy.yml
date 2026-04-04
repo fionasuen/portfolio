@@ -19,17 +19,9 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Publish to Cloudflare Pages
-        uses: cloudflare/pages-action@v1
+        uses: cloudflare/wrangler-action@v3
         with:
-          # Make sure these secrets are set in your GitHub repo settings!
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          
-          # Replace this if your project name on Cloudflare is different
-          projectName: 'fiona-portfolio' 
-          
-          # We deploy the root directory since the site is pre-built
-          directory: '.'
-          
-          # Optional: Enables bot comments on your PRs 
-          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+          # The exact same deployment command we run on your local terminal!
+          command: pages deploy . --project-name=fiona-portfolio --branch main
