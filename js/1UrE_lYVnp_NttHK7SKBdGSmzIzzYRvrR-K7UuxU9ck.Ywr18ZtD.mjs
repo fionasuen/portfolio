@@ -1600,7 +1600,7 @@ Educational materials and event props for children`,
                                                     }
                                                 },
                                                 children: c(H, {
-                                                    EcTCStkvs: `mailto:Email:\xA0fionaisdesigner@gmail.com`,
+                                                    EcTCStkvs: `mailto:fionaisdesigner@gmail.com`,
                                                     height: `100%`,
                                                     id: `JZLNrMIbs`,
                                                     layoutId: `JZLNrMIbs`,
