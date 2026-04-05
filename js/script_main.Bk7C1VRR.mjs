@@ -1944,7 +1944,7 @@ var It, Lt, Rt, zt, Bt, Vt, Ht, Ut, Wt, Gt, Kt, qt, J, Jt, Yt = e((() => {
         }) => ({
             ...f,
             dHvX79cBO: s ?? f.dHvX79cBO ?? `Based in: Toronto, Canada`,
-            iQ4g0mQch: t ?? f.iQ4g0mQch ?? `Email:\xA0fionasuen2020@gmail.com`,
+            iQ4g0mQch: t ?? f.iQ4g0mQch ?? `Email:\xA0fionaisdesigner@gmail.com`,
             ndEFkn5ck: l ?? f.ndEFkn5ck,
             OEQH12BuP: e ?? f.OEQH12BuP ?? `Available for: Freelance Projects & Full-Time`,
             Q1gYWt4eM: a ?? f.Q1gYWt4eM,
@@ -2106,7 +2106,7 @@ var It, Lt, Rt, zt, Bt, Vt, Ht, Ut, Wt, Gt, Kt, qt, J, Jt, Yt = e((() => {
                 type: H.Link
             },
             iQ4g0mQch: {
-                defaultValue: `Email:\xA0fionasuen2020@gmail.com`,
+                defaultValue: `Email:\xA0fionaisdesigner@gmail.com`,
                 displayTextArea: !1,
                 placeholder: ``,
                 title: `Email`,
@@ -2165,7 +2165,7 @@ function mn({
 }) {
     let i = {
         dHvX79cBO: `Based in: Toronto, Canada`,
-        iQ4g0mQch: `Email:\xA0fionasuen2020@gmail.com`,
+        iQ4g0mQch: `Email:\xA0fionaisdesigner@gmail.com`,
         ndEFkn5ck: {
             href: {
                 hash: `:hzXU8z4Yn`,
@@ -2176,12 +2176,12 @@ function mn({
         Q1gYWt4eM: `https://www.instagram.com/fiona.branddesign?igsh=MWhuY3huNnd5bHA5MA==`,
         UW9oj0YnJ: `https://www.linkedin.com/in/fiona-suen-230033381/`,
         VOporGtAz: `x.com`,
-        X13KQtIRk: `Email:\xA0fionasuen2020@gmail.com`,
+        X13KQtIRk: `mailto:fionaisdesigner@gmail.com`,
         YurE4qEkR: `Fiona Suen`
     },
         a = {
             ...i,
-            iQ4g0mQch: `Email:\xA0Email:\xA0fionaisdesigner@gmail.com`,
+            iQ4g0mQch: `Email:\xA0fionaisdesigner@gmail.com`,
             ndEFkn5ck: {
                 href: {
                     hash: `:xnrDWjaHY`,
@@ -2206,7 +2206,7 @@ function mn({
         },
         s = {
             ...i,
-            iQ4g0mQch: `Email:\xA0Email:\xA0fionaisdesigner@gmail.com`,
+            iQ4g0mQch: `Email:\xA0fionaisdesigner@gmail.com`,
             ndEFkn5ck: void 0,
             UW9oj0YnJ: void 0,
             VOporGtAz: void 0,
@@ -2217,7 +2217,7 @@ function mn({
             BoOypLBr5: o,
             LJH7X8i5X: {
                 ...i,
-                iQ4g0mQch: `Email:\xA0Email:\xA0fionaisdesigner@gmail.com`,
+                iQ4g0mQch: `Email:\xA0fionaisdesigner@gmail.com`,
                 ndEFkn5ck: void 0,
                 VOporGtAz: void 0,
                 X13KQtIRk: void 0
