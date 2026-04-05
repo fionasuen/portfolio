@@ -2188,9 +2188,9 @@ function mn({
                     webPageId: `MM0feJXrS`
                 }
             },
-            UW9oj0YnJ: void 0,
+            UW9oj0YnJ: `https://www.linkedin.com/in/fiona-suen-230033381/`,
             VOporGtAz: void 0,
-            X13KQtIRk: void 0
+            X13KQtIRk: `mailto:fionaisdesigner@gmail.com`
         },
         o = {
             ...i,
@@ -2202,15 +2202,20 @@ function mn({
                 }
             },
             VOporGtAz: void 0,
-            X13KQtIRk: void 0
+            X13KQtIRk: `mailto:fionaisdesigner@gmail.com`
         },
         s = {
             ...i,
             iQ4g0mQch: `Email:\xA0fionaisdesigner@gmail.com`,
+            ndEFkn5ck: {
+                href: {
+                    hash: `:hzXU8z4Yn`,
+                    webPageId: `augiA20Il`
+                }
+            },
             ndEFkn5ck: void 0,
-            UW9oj0YnJ: void 0,
             VOporGtAz: void 0,
-            X13KQtIRk: void 0
+            X13KQtIRk: `mailto:fionaisdesigner@gmail.com`
         },
         c = {
             augiA20Il: i,
@@ -2218,9 +2223,14 @@ function mn({
             LJH7X8i5X: {
                 ...i,
                 iQ4g0mQch: `Email:\xA0fionaisdesigner@gmail.com`,
-                ndEFkn5ck: void 0,
+                ndEFkn5ck: {
+                    href: {
+                        hash: `:hzXU8z4Yn`,
+                        webPageId: `augiA20Il`
+                    }
+                },
                 VOporGtAz: void 0,
-                X13KQtIRk: void 0
+                X13KQtIRk: `mailto:fionaisdesigner@gmail.com`
             },
             MM0feJXrS: a,
             qix_Fn2ZP: s
